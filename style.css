@@ -1,0 +1,23 @@
+#container {
+  color: black;
+  background-color: bisque;
+  margin: 5px;
+  width: 300px;
+  border: 1px solid black;
+  border-radius: 1rem;
+  text-align: center;
+  padding: 20px;
+  width: auto;
+}
+
+img {
+  width: 250px;
+  
+}
+body {
+  display: flex;
+  justify-content: center;
+}
+.link1{
+    margin-right:  10px;
+}
